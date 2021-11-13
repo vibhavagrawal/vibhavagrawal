@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Vibhav Agrawal
 
-- 🔭 I’m currently working at [WealthSimple] (https://github.com/wealthsimple)
+- 🔭 I’m currently working at [WealthSimple](https://github.com/wealthsimple)
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about **Java, SpringBoot**
 - 📫 How to reach me: [@LinkedIn](https://www.linkedin.com/in/vibhavagrawal)
